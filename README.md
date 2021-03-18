@@ -6,7 +6,7 @@ Allows [Thor SPARQL client](https://github.com/TheScienceMuseum/thor-docker
 ## Requirements 
 
 - [Docker hosted Fuseki](https://github.com/TheScienceMuseum/fuseki-docker) running on port 3030
-- [Thor SPARQL client](https://github.com/TheScienceMuseum/thor-docker running on port 80
+- [Thor SPARQL client](https://github.com/TheScienceMuseum/thor-docker) running on port 80
 
 Enter host:8080 as your SPARQL endpoint in Thir (which will now proxied from Fuseki with the correct CORS headers)
 
